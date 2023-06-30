@@ -32,16 +32,30 @@ cmd에서 실행해보자 node -v
 
 ## WIreframe & 목업 & 요구사항 정리 
 [회원가입.pdf](https://github.com/S2MiniS2/Internship/files/11912024/default.pdf)
+
+
 [환경설정.pdf](https://github.com/S2MiniS2/Internship/files/11912023/default.pdf)
+
+
 [와이어프레임.pdf](https://github.com/S2MiniS2/Internship/files/11912022/default.pdf)
+
+
 [비밀번호 찾기.pdf](https://github.com/S2MiniS2/Internship/files/11912021/default.pdf)
+
+
 [분석.pdf](https://github.com/S2MiniS2/Internship/files/11912020/default.pdf)
+
+
 [메인.pdf](https://github.com/S2MiniS2/Internship/files/11912019/default.pdf)
+
+
 [로그인.pdf](https://github.com/S2MiniS2/Internship/files/11912018/default.pdf)
+
+
 [데이터.pdf](https://github.com/S2MiniS2/Internship/files/11912017/default.pdf)
 
 
-
+## 구현 페이지 
 ![image](https://github.com/S2MiniS2/Internship/assets/97283810/f20de90d-fbb9-4d7e-9f2d-9f391fd0c9c9)
 로그인페이지
 ![image](https://github.com/S2MiniS2/Internship/assets/97283810/43169b32-cb66-4dfa-bd2f-9f3e49fdbf27)
