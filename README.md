@@ -1,5 +1,35 @@
 # Internship
-ICT 인턴십
+## ICT 인턴십 관리자페이지 제작
+
+
+### 소요기간 : 2 month
+### -사용 스택 : Javascript, Java, mariadb
+### -구현 내용 : 사이드바, 차트구현
+### -미구현 내용 : 로그인, 회원가입, 비밀번호 찾기, Anaylitcs Api 연동
+### -착안점 : 비즈니스 로직 향상을 위한 개발자 관리자 페이지 작업, 사용자 편의 UI제공
+### -아쉬운 점 : 미구현 페이지 구현 및 하드코딩
+
+*추후 업데이트, 예정 ( 리팩토링 필요, node 18.0
+
+react 18.0 - client side rendering
+
+next 13.0 - server side rendering(react를 프레임워크처럼 쓸수있게해준다 - 개인적인의견임)
+typescript 4.0 - 1 "1"
+
+tanstack query 4.0 - api에서 가져온 데이터를 관리해주는놈
+server의 상태(데이터)를 관리해주는 lib
+
+redux-tool-kit - client 상태관리해주는 lib
+
+
+
+npm create next-app 생성할폴더이름 --template typescript
+
+yarn 과 npm의 차이점
+
+
+cmd에서 실행해보자
+node -v
 
 ![image](https://github.com/S2MiniS2/Internship/assets/97283810/f20de90d-fbb9-4d7e-9f2d-9f391fd0c9c9)
 로그인페이지
