@@ -1,0 +1,113 @@
+.interface_section {
+  padding-top: 90px;
+  gap: 50px;
+}
+.interface_section h1 {
+  font-size: 70px;
+}
+
+.des_font {
+  font-size: 25px;
+  line-height: 50px;
+}
+
+.FTA2 {
+  padding: 90px;
+  width: 900px;
+  height: 750px;
+}
+
+.aboutBOM .BOM_page {
+  display: flex;
+  flex-direction: column;
+  padding-top: 70px;
+  text-align: center;
+}
+.aboutBOM .BOM_page .BOM_section p {
+  font-size: 35px;
+  padding: 20px;
+  font-size: 20px;
+  line-height: 40px;
+}
+.aboutBOM .BOM_page .BOM_section img {
+  width: 50%;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+
+.aboutFMECA {
+  display: flex;
+  flex-direction: column;
+  padding-top: 70px;
+}
+.aboutFMECA .FMECA_page {
+  display: flex;
+  flex-direction: column;
+  padding-top: 70px;
+  text-align: center;
+}
+.aboutFMECA .FMECA_page .FEMCA_section {
+  text-align: center;
+}
+.aboutFMECA .FMECA_page p {
+  font-size: 35px;
+  padding: 20px;
+  font-size: 20px;
+  line-height: 40px;
+}
+.aboutFMECA .FMECA_page .FMECA {
+  width: 50%;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+
+.aboutRBD {
+  display: flex;
+  flex-direction: column;
+  padding-top: 70px;
+}
+.aboutRBD .RBD_page .RBD_section {
+  text-align: center;
+}
+.aboutRBD .RBD_page .RBD_section .Only {
+  font-weight: bold;
+}
+.aboutRBD .RBD_page p {
+  font-size: 35px;
+  padding: 20px;
+  font-size: 20px;
+  line-height: 40px;
+}
+.aboutRBD .RBD_page .drag {
+  width: 50%;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+
+.aboutFTA {
+  padding: 50px 0 50px;
+}
+.aboutFTA .FTA_page .FTA_section {
+  text-align: center;
+}
+.aboutFTA .FTA_page .aboutRBD {
+  width: 50%;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+.aboutFTA .FTA_page p {
+  font-size: 35px;
+  padding: 20px;
+  font-size: 20px;
+  line-height: 40px;
+}
+
+.footer2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-bottom: 40px;
+}
+.footer2 Button {
+  font-size: 20px;
+}/*# sourceMappingURL=skill.css.map */

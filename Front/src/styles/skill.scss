@@ -1,0 +1,143 @@
+.interface_section{
+
+    padding-top: 90px;
+    gap : 50px;
+    h1{
+        font-size: 70px;
+    }
+    
+
+   
+}
+
+.des_font{
+   
+    font-size:25px;
+    line-height: 50px;
+}
+
+.FTA2{
+    padding: 90px;
+    width: 900px;
+    height: 750px;
+}
+
+.aboutBOM{
+    .BOM_page{
+
+        display: flex;
+        flex-direction: column;
+        padding-top: 70px;
+        text-align: center;
+        
+        .BOM_section{
+        
+            p{
+                font-size:35px;
+                padding:20px;
+                font-size: 20px;
+                line-height: 40px;
+             
+            }
+
+            img{
+                width: 50%;
+                height: fit-content;
+            }
+        }
+    }
+}
+
+.aboutFMECA{
+    display: flex;
+    flex-direction: column;
+    padding-top: 70px;
+    .FMECA_page{
+        display: flex;
+        flex-direction: column;
+        padding-top: 70px;
+        text-align: center;
+        
+        .FEMCA_section{
+            text-align: center;
+            
+       
+        }
+        p{
+            font-size:35px;
+            padding:20px;
+            font-size: 20px;
+            line-height: 40px;
+         
+        }
+        .FMECA{
+            width: 50%;
+            height: fit-content;
+        
+        }
+        }
+        
+
+    }
+
+.aboutRBD{
+    display: flex;
+    flex-direction: column;
+    padding-top: 70px;
+
+    .RBD_page{
+        .RBD_section{
+            text-align: center;
+            .Only{
+                font-weight: bold;
+            }
+        }
+        p{
+            font-size:35px;
+            padding:20px;
+            font-size: 20px;
+            line-height: 40px;
+         
+        }
+        
+        .drag{
+            width: 50%;
+            height: fit-content;
+        }
+        
+
+    }
+}
+
+.aboutFTA{  
+    padding:50px 0 50px;
+
+    .FTA_page{
+        .FTA_section{
+            text-align: center;
+        }
+        .aboutRBD{
+            width: 50%;
+            height: fit-content;
+        
+        }
+        p{
+            font-size:35px;
+            padding:20px;
+            font-size: 20px;
+            line-height: 40px;
+         
+        }
+    }
+}
+
+.footer2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 40px;
+    
+    Button{
+        font-size:20px;
+    }
+}
