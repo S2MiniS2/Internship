@@ -1,4 +1,4 @@
-![image](https://github.com/S2MiniS2/Internship/assets/97283810/dba80f4b-834f-4135-b3a8-d82aee33c352)# Internship
+# Internship
 ## ICT 인턴십 회사 랜딩페이지 제작  
 ### -소요기간 : 2 month 
 ### -사용 스택 : Javascript, Node.js, TailWind, mongoDB
