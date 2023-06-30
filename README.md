@@ -17,14 +17,15 @@
 ![image](https://github.com/S2MiniS2/Internship/assets/97283810/8e3aeaef-671b-42ab-9b19-d578f8a2d4ec)
 ![image](https://github.com/S2MiniS2/Internship/assets/97283810/b0a02cef-65bb-4f17-ab67-b109d327dc63)
 #### 1.2 상세 장점 ( 개발중인 솔루션이므로 미구현 페이지는 애플 사진으로 대체)
-![image](https://github.com/S2MiniS2/Internship/assets/97283810/9168295f-5a33-492c-aea7-ab99f8caffea)
 
 
 ## 2. 기능페이지 ( 상세 기능 소개 )
+![image](https://github.com/S2MiniS2/Internship/assets/97283810/9168295f-5a33-492c-aea7-ab99f8caffea)
 ![image](https://github.com/S2MiniS2/Internship/assets/97283810/6a251bb7-1ada-467e-8ef3-5760e7896e90)
 ![image](https://github.com/S2MiniS2/Internship/assets/97283810/c87cf4db-f651-4e8d-be44-327addc55adb)
 ![image](https://github.com/S2MiniS2/Internship/assets/97283810/10a455e8-a294-4140-8f85-2dfa7d361cf7)
 ![image](https://github.com/S2MiniS2/Internship/assets/97283810/b6d86b23-662f-40b8-818b-b3d844ab7383)
+
 
 ### 3.컨설팅 페이지 ( 컨설팅 유도 페이지 )
 ![image](https://github.com/S2MiniS2/Internship/assets/97283810/edb28db3-edd3-44a2-97e8-37e3f11db90d)
@@ -34,8 +35,10 @@
 ![image](https://github.com/S2MiniS2/Internship/assets/97283810/3f83ea18-1417-4887-a45a-cc58353aa573)
 ![image](https://github.com/S2MiniS2/Internship/assets/97283810/f0674cff-cd06-45c3-bd4b-2096d28320a0)
 
+
 ### 4. 가격 페이지 ( 구독 페이지, 가격 미책정 부분 ? 로 대체  )
 ![image](https://github.com/S2MiniS2/Internship/assets/97283810/dbbceb9f-7454-4780-8562-8d0bd922fd5d)
+
 
 ### 5.로그인 & 회원가입 페이지 
 ![image](https://github.com/S2MiniS2/Internship/assets/97283810/24bc4ca3-56d2-4438-8d19-5dbc290b317e)
