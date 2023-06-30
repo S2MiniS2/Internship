@@ -20,7 +20,7 @@
 ![image](https://github.com/S2MiniS2/Internship/assets/97283810/9168295f-5a33-492c-aea7-ab99f8caffea)
 
 
-### 2. 기능페이지 ( 상세 기능 소개 )
+## 2. 기능페이지 ( 상세 기능 소개 )
 ![image](https://github.com/S2MiniS2/Internship/assets/97283810/6a251bb7-1ada-467e-8ef3-5760e7896e90)
 ![image](https://github.com/S2MiniS2/Internship/assets/97283810/c87cf4db-f651-4e8d-be44-327addc55adb)
 ![image](https://github.com/S2MiniS2/Internship/assets/97283810/10a455e8-a294-4140-8f85-2dfa7d361cf7)
