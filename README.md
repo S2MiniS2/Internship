@@ -1,72 +1,98 @@
-# ICT 인턴십 관리자 페이지
+# ICT Internship Project
 
-ICT 인턴십 과정에서 제작한 관리자(Admin) 웹 페이지입니다.  
-관리자가 데이터를 확인하고 관리할 수 있도록 사이드바 기반의 대시보드 UI와 데이터 시각화 기능을 구현했습니다.
-
----
-
-## 프로젝트 개요
-
-- **기간**: 2개월
-- **역할**: 프론트엔드 개발
-- **목적**: 데이터 관리 및 분석을 위한 관리자 페이지 제작
+ICT 인턴십 기간 동안 진행한 웹 프로젝트입니다.  
+회사 솔루션 홍보를 위한 **랜딩 페이지**와 서비스 데이터를 관리하기 위한 **관리자(Admin) 페이지**를 제작했습니다.
 
 ---
 
-## 사용 기술
+# 프로젝트 개요
+
+- **기간** : 2개월
+- **역할** : 프론트엔드 개발
+- **목적** : 서비스 홍보 및 데이터 관리 시스템 구축
+
+---
+
+# 기술 스택
 
 - JavaScript
+- Node.js
+- Tailwind CSS
 - Java
 - MariaDB
+- MongoDB
 
 ---
 
-## 주요 기능
+# 프로젝트 구성
 
-### 관리자 대시보드 UI
-- 사이드바 기반 관리자 페이지 레이아웃 구성
-- 관리자 메뉴 이동 구조 설계
+## 1. 회사 랜딩 페이지
 
-### 데이터 조회 페이지
-- 데이터 목록 조회 UI 구현
-- 호선별 데이터 필터링 기능 구현
+회사 솔루션을 소개하고 사용자 상담 및 회원가입으로 이어지도록 설계된 랜딩 페이지입니다.
 
-### 데이터 시각화
-- 차트를 활용한 데이터 분석 화면 구현
+### 주요 기능
 
-### 환경 설정 페이지
-- 관리자 환경 설정 UI 구성
+- 회사 솔루션 소개 콘텐츠 구성
+- 주요 기능 설명 페이지
+- 컨설팅 유도 페이지
+- 가격 안내 페이지
+- 로그인 및 회원가입 기능
 
----
+### 배운 점
 
-## 와이어프레임 및 요구사항
-
-- [회원가입](https://github.com/S2MiniS2/Internship/files/11912024/default.pdf)
-- [환경설정](https://github.com/S2MiniS2/Internship/files/11912023/default.pdf)
-- [와이어프레임](https://github.com/S2MiniS2/Internship/files/11912022/default.pdf)
-- [비밀번호 찾기](https://github.com/S2MiniS2/Internship/files/11912021/default.pdf)
-- [분석](https://github.com/S2MiniS2/Internship/files/11912020/default.pdf)
-- [메인](https://github.com/S2MiniS2/Internship/files/11912019/default.pdf)
-- [로그인](https://github.com/S2MiniS2/Internship/files/11912018/default.pdf)
-- [데이터](https://github.com/S2MiniS2/Internship/files/11912017/default.pdf)
+- 랜딩 페이지에서 사용자 행동을 유도하는 **CTA(Call To Action)** 구조 설계 경험
+- 서비스 장점을 효과적으로 전달하기 위한 콘텐츠 배치 경험
+- 사용자 친화적인 UI 구성 경험
 
 ---
 
-## 구현 화면
+## 2. 관리자 페이지
 
-### 로그인 페이지
-![login](https://github.com/S2MiniS2/Internship/assets/97283810/f20de90d-fbb9-4d7e-9f2d-9f391fd0c9c9)
+서비스 데이터를 관리하고 분석하기 위한 관리자(Admin) 대시보드 페이지입니다.
 
-### 회원가입 페이지
-![signup](https://github.com/S2MiniS2/Internship/assets/97283810/43169b32-cb66-4dfa-bd2f-9f3e49fdbf27)
+### 주요 기능
 
-### 비밀번호 찾기 페이지
-![find-password](https://github.com/S2MiniS2/Internship/assets/97283810/eae3a833-4a65-4808-9349-66ad75cf3da9)
+- 사이드바 기반 관리자 UI 구조 구현
+- 데이터 조회 페이지 구현
+- 호선별 데이터 필터링 기능
+- 차트 기반 데이터 분석 화면 구현
+- 관리자 설정 페이지 구현
+
+### 배운 점
+
+- 관리자 대시보드 UI 설계 경험
+- 데이터 시각화 기반 관리 시스템 구현 경험
+- 실제 서비스에서 관리자 페이지의 역할 이해
+
+---
+
+# 구현 화면
+
+## 랜딩 페이지
+
+### 메인 페이지
+![main](https://github.com/S2MiniS2/Internship/assets/97283810/118a1b3f-9a39-4b41-bbc3-c93fbfdffd8f)
+
+### 기능 소개 페이지
+![feature](https://github.com/S2MiniS2/Internship/assets/97283810/9168295f-5a33-492c-aea7-ab99f8caffea)
+
+### 컨설팅 페이지
+![consult](https://github.com/S2MiniS2/Internship/assets/97283810/edb28db3-edd3-44a2-97e8-37e3f11db90d)
+
+### 가격 페이지
+![price](https://github.com/S2MiniS2/Internship/assets/97283810/dbbceb9f-7454-4780-8562-8d0bd922fd5d)
+
+### 로그인 / 회원가입
+![login](https://github.com/S2MiniS2/Internship/assets/97283810/24bc4ca3-56d2-4438-8d19-5dbc290b317e)
+
+---
+
+## 관리자 페이지
 
 ### 데이터 조회 페이지
 ![dataview](https://github.com/S2MiniS2/Internship/assets/97283810/f62492a3-614a-491e-8463-c46deef8be22)
 
-### 호선별 데이터 필터링
+### 데이터 필터링
 ![filter](https://github.com/S2MiniS2/Internship/assets/97283810/3385641a-5a1e-48d2-887d-6c70f5a96af2)
 
 ### Analytics 페이지
